@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cure of the kingdome, an old fashioned sermon treating of peace, truth, &amp; loyaltie. A discovery of the diseases of the state, with a direction to the true, certaine, and only means for the recovery of health to this distressed nation. / By R.P. ...</title>
+            <author>R. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91559</idno>
+            <idno type="STC">Wing P97</idno>
+            <idno type="STC">Thomason E465_10</idno>
+            <idno type="STC">ESTC R144</idno>
+            <idno type="EEBO-CITATION">99859653</idno>
+            <idno type="PROQUEST">99859653</idno>
+            <idno type="VID">111748</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91559)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111748)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E465[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cure of the kingdome, an old fashioned sermon treating of peace, truth, &amp; loyaltie. A discovery of the diseases of the state, with a direction to the true, certaine, and only means for the recovery of health to this distressed nation. / By R.P. ...</title>
+                  <author>R. P.</author>
+               </titleStmt>
+               <extent>[2], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed October 1. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "peace, truth, &amp; loyaltie." are bracketed together on title page; "philalexandros" is in Greek characters.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800. --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111748:1" rendition="simple:additions"/>
+            <p>THE CVRE OF THE KINGDOME, An old faſhioned Sermon</p>
+            <list>
+               <head>Treating of</head>
+               <item>Peace,</item>
+               <item>Truth, &amp;</item>
+               <item>Loyaltie.</item>
+            </list>
+            <p>A Diſcovery of the Diſeaſes of the State, with a Direction to the true, certaine, and only means for the recovery of health to this diſtreſſed Nation.</p>
+            <p>BY <hi>R. P.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Coll: St. Jo. Cant.</hi>
+            </p>
+            <p>
+               <q>
+                  <bibl>
+                     <hi>2 KING. 20. 19.</hi>
+                  </bibl> Is it not good that Peace and Truth be in my dayes.</q>
+            </p>
+            <p>Printed <hi>October</hi> 1. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:111748:2"/>
+            <head>The Cure of the KINGDOM.</head>
+            <epigraph>
+               <bibl>2 KINGS. 20. 19.</bibl>
+               <q>Is it not good that Peace and Truth be in my dayes?</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe are the laſt words, which the Pen-men. of holy Scripture have left in writing, as me<g ref="char:EOLhyphen"/>morable in the Hiſtory of <hi>Hezechiah,</hi> King of Judah, Succeſſor to <hi>David</hi> and <hi>Solomon</hi> in the Kingdome, and heire unto them both, of what was excellent in them both.</p>
+            <p>The moſt commendable thing in <hi>David</hi> was his Integrity of heart, 1 <hi>King.</hi> 15. 3. It is ſaid of <hi>Abiah, His heart was not perfect with the Lord his God, as the heart of</hi> David <hi>his Fa<g ref="char:EOLhyphen"/>ther was.</hi>
+            </p>
+            <p>The moſt memorable thing in <hi>Solomon,</hi> was his excellent wiſdome, 1 <hi>King. 3. 12. Loe I have given unto thee a wiſe and underſtanding heart, ſo that there was none like thee be<g ref="char:EOLhyphen"/>fore thee: neither after thee ſhall ariſe any like to thee: Heze<g ref="char:EOLhyphen"/>chiah</hi> was a follower of them both in theſe moſt excellent gifts</p>
+            <p n="1">1. Of <hi>David</hi> in uprightneſſe, 2 <hi>King. 18. 3. He did that which was right in the ſight of the Lord, according to all that</hi> David <hi>his Father did.</hi>
+            </p>
+            <p n="2">2. Of <hi>Solomon</hi> in wiſedom; foure whole Chapters of the <hi>Proverbs,</hi> 25, 6, 7, 8. were copied out by the men of <hi>He<g ref="char:EOLhyphen"/>zechiah:</hi> probably at his appointment. What things may we not expect to come from ſuch an one, who propoſed to him<g ref="char:EOLhyphen"/>ſelfe ſuch worthy pattern?</p>
+            <p>It is yet to be remembred, that they were the laſt words which are upon record, of this wiſe and upright King; <hi>ver<g ref="char:EOLhyphen"/>ba noviſſima, verba notatiſsima:</hi> The laſt words are commonly
+<pb n="2" facs="tcp:111748:3"/>
+moſt memorable, moſt carefully obſerved, and moſt com<g ref="char:EOLhyphen"/>monly reported; <hi>Et dixit moriens;</hi> nothing maketh a deeper print in the memory of a man, then the laſt words of a dy<g ref="char:EOLhyphen"/>ing friend.</p>
+            <p>Laſtly, they were <hi>cygnae a cantio,</hi> his Swans ſong, after the terrour of a mighty Thunder-clap, of an imminent judge<g ref="char:EOLhyphen"/>ment in the two former verſes.</p>
+            <p>
+               <hi>Verſ. 17. Behold the dayes come, that all that is in thine houſe, and that which thy Fathers have laid up in ſtore, unto this day, ſhal be carried into Babylon: nothing ſhal be left, ſaith the Lord.</hi>
+            </p>
+            <p>
+               <hi>Verſ. 18. And of thy ſonnes that ſhall iſſue from thee, which thou ſhalt beget, ſhall they take away and make Eunuches, in the Palace of the King of</hi> Babylon.</p>
+            <p>In theſe diſtreſſes, the ſtay of his ſtate, and the ſumme of his comfort, was, that notwithſtanding theſe Judgements were to come upon his Kingdome, yet Peace and Truth ſhould be in his dayes.</p>
+            <p>In this memorable ſpeech, there are chiefely two things to be obſerved</p>
+            <list>
+               <item>1. The Manner.</item>
+               <item>2. The Matter.</item>
+            </list>
+            <list>
+               <item>1. The manner of ſpeech is delivered by way of Interro<g ref="char:EOLhyphen"/>gation. <hi>Is it not good?</hi>
+               </item>
+               <item>2. The Matter is a Rejoycing for the continuation of theſe two bleſſings,
+<list>
+                     <item>Peace <hi>and</hi>
+                     </item>
+                     <item>Truth.</item>
+                  </list>
+               </item>
+            </list>
+            <p>I ſpare to run into any ſubdiviſions, or to take notice of unneceſſary circumſtances, or by-obſervations, the words haſtening to ſo uſefull application, that as Saint <hi>Bernard</hi> ſpeaketh of another text, <hi>Antequam panis frangitur, ecce fragmenta:</hi> Me thinks every one ſhould be ready to gather up the fragments before the bread be broken; and to make ſome application of the text unto himſelfe, before I have
+<pb n="3" facs="tcp:111748:3"/>
+made mine Analyſis, or reſolution of the words into their ſeverall parts. Firſt of the manner of ſpeech by way of In<g ref="char:EOLhyphen"/>terrogation; <hi>Is it not good?</hi> The Rhetoricians make many kinds of Interrogations, as being uſed many wayes. We take notice only of three. 1. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, By way of Inquiſition to get underſtanding, as <hi>Mat.</hi> 11. 3. The Diſciples of <hi>Iohn</hi> ſaid unto Chriſt, <hi>Art thou he that ſhouldſt come, or doe wee looke for another?</hi> 2. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, By way of Temptation to get an advantage, <hi>Gen. 3. 1. Yea hath God indeed ſaid, yee ſhall not eat of every tree of the Garden?</hi> 3. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, By way of Ex<g ref="char:EOLhyphen"/>aggeration, to get an unavoidable conceſſion unto that which is demanded, <hi>Luke 17. 17. Are there not ten clenſed, where are the nine?</hi>
+            </p>
+            <p>This Interrogation may well ſute to the laſt ſenſe, <hi>viz.</hi> by way of exaggeration, or vehement affirmation; when we aske of thoſe things, whoſe truth is knowne, and granted. In this caſe, an Interrogation is not a doubtfull queſtion, but an ear<g ref="char:EOLhyphen"/>neſt affirmation, or full reſolution. <hi>Tremelius</hi> renders the Text thus; <hi>Quod futura ſit pax &amp; ſtabilitas in diebus meis, bonum eſt;</hi> that there ſhall be peace and ſtability in my dayes, it is good.</p>
+            <p>The Prophet <hi>Eſay</hi> in his repetition of this ſpeech, ma<g ref="char:EOLhyphen"/>keth it a reſolute Propoſition, <hi>Eſay</hi> 39. 6. Moreover <hi>Heze<g ref="char:EOLhyphen"/>chiah</hi> ſaid, <hi>It is good if Peace and Truth ſhall be in my dayes.</hi>
+            </p>
+            <p>So then, it is reſolved upon the queſtion, that <hi>It is good that Peace, and Truth be in our dayes.</hi> And this reſolution doth reſolve it ſelfe into foure aſſertions, or aſſeverations.</p>
+            <p>Firſt, That <hi>Peace</hi> is good.</p>
+            <p>Secondly, That <hi>Truth</hi> is good.</p>
+            <p>Thirdly, That it is good that <hi>Peace</hi> and <hi>Truth</hi> ſhould goe together, as they are here coupled together by this Band, or copulative conjunction <hi>And, Peace and Truth.</hi>
+            </p>
+            <p>Fourthly, that it is good that this bleſſing of united <hi>Peace</hi>
+               <pb n="4" facs="tcp:111748:4"/>
+and <hi>Truth</hi> ſhould continue all our dayes.</p>
+            <p>
+               <q>Is it not good?</q>
+            </p>
+            <p>That which the Pſalmiſt makes the common <hi>quere</hi> of all worldlings, <hi>Pſal. 44. Who will ſhew us any good?</hi> The ſame is common to all men in the world; all enquire after good; every Art, Science, and endeavour of man (ſaith the Philo<g ref="char:EOLhyphen"/>ſopher) hath this ayme, to attaine to ſome preſuppoſed good, <hi>Ariſt. Eth.</hi> 1. The name of <hi>Good</hi> is ſo attractive, as that it draweth all mens hearts after it, with incredible deſires; this is the Load-ſtone of our affections, the Pole-ſtar which doth direct the whole compaſſe of all our actions; this is <hi>ſumma ſummarum,</hi> the ſumme of all ſummes, in which are ſummed up all the particulars of pleaſure, profit, honour, health, wealth, life; and liberty; all are caſt up in this groſſe ſumme of Good. None are wiſe, but they that ſeek it. None are happy, but they that find it. The Philoſophers, who had their names from the wiſedome they ſought, had many opinions touching Good: ſome placing their chiefe Good in pleaſure, ſome in riches, ſome in honor, againſt whom <hi>Seneca</hi> argues moſt divinely thus; <hi>Aut iſta bona non quae vocantur, aut homo foelicior deo eſt;</hi> either thoſe are not good things which are ſo called, or man is more happy then God: Hee hoardeth up no riches, neither is he taken with the delights of carnall pleaſure, nor blowne up with the vaine titles of ambition.</p>
+            <p>The true wiſedome teacheth, that there is but one Good, <hi>Deus optimus maximus,</hi> the good great God, he is <hi>ſons boni,</hi> the Fountaine of good. Neither is there any good that is not from him, <hi>Ia.</hi> 1. 17. As he is the true wiſedome, and that one good, ſo is he <hi>Pax mundi,</hi> the peace of the world, <hi>Lux mundi,</hi> the Light of the world, and <hi>vita mundi,</hi> the life of the world: He that is the Wiſedome, Peace, Light, and life of the world; he that is ſtiled by <hi>Gregory, bonitas nata,</hi> hee
+<pb n="5" facs="tcp:111748:4"/>
+hath ſhewed his ſervants what is good, and what is to be deſired in this world.</p>
+            <p>
+               <q>Is it not good that Peace, and Truth, &amp;c.</q>
+            </p>
+            <p>Firſt of <hi>Peace,</hi> which by <hi>Caſſian</hi> is thus defined: <hi>Pax eſt concordantium in bono animorum ordinata tranquilitas;</hi> peace is an ordinate quietneſſe of minds, that agree in the ſame good. Hence I inferre, that there is no peace to the wicked, <hi>Eſay</hi> 41. 1. And that for theſe reaſons. 1. They intend no good. 2. They conſent not to good. 3. They order not themſelves in the way to good.</p>
+            <list>
+               <head>Some make three kinds of peace</head>
+               <item>Internall.</item>
+               <item>Externall.</item>
+               <item>Eternall.</item>
+            </list>
+            <p n="1">1. The Internall is grounded on faith, <hi>Rom. 5. 1. Being therefore juſtified by faith, we have peace with God.</hi>
+            </p>
+            <p n="2">2. The Externall is ſet upon Righteouſneſſe, <hi>Pſal.</hi> 72. 7. In his time Righteouſneſſe ſhall flouriſh, and abundance of peace ſo long as the Moon endureth. The Prophet <hi>Eſay</hi> calleth it the work of Righteouſneſſe. <hi>Eſ.</hi> 32. 17. S. <hi>Iames</hi> calleth it the fruit of Righteouſneſs: <hi>Iam:</hi> 3. The Pſalmiſt ſaith Righ<g ref="char:EOLhyphen"/>teouſneſſe and Peace have kiſſed each other. S. <hi>Auguſtins</hi> obſervation upon the place is very good, <hi>Vultis pacem, amate juſtitiam;</hi> will you have Peace, love Juſtice; Juſtice and Peace are two inſeparable companions, they love one ano<g ref="char:EOLhyphen"/>ther, they kiſſe one another: Therefore if you doe not love Righteouſneſſe, Peace will not love you, nor come at you; when <hi>Jehoram</hi> asked <hi>Jehu, Jehu</hi> is it peace? <hi>Jehu</hi> anſwered, how can there be peace, ſo long as the whoredoms of thy mother <hi>Jezabel,</hi> and her witchcrafts are ſo many in num<g ref="char:EOLhyphen"/>ber. To conclude the point, with that of <hi>Augustine, Fiat Iuſtitia, &amp; habebis pacem,</hi> let juſtice be done, and you ſhall have peace.</p>
+            <p>The third kind of peace is Eternall.</p>
+            <p>
+               <pb n="6" facs="tcp:111748:5"/>My text goes not ſo farre, mounts not ſo high, yet it is the high way unto it, and brings us within the ſight of it, as <hi>Moſes</hi> from Mount <hi>Nebo</hi> viewed the Land of <hi>Canaan. S. Paul Ro:</hi> 14. 17. doth thus chalk out the way, to this eternal Peace, Righteouſneſſe, Peace, and Joy in the Holy Ghoſt. Righte<g ref="char:EOLhyphen"/>teouſneſſe leads to Peace, Peace to Joy in the Holy Ghoſt, this Joy is crown'd with Glory. But to confine my ſelfe within the limits of my text, and to goe no further then <hi>Pax temporis,</hi> the Peace of our dayes, and the praiſe thereof.</p>
+            <p>Peace (ſaith <hi>Auguſtine) eſt ſerenitas mentis, tranquilitas animi, ſimplicitas cordis, vinculum amoris, &amp; conſortium charitatis:</hi> Peace is the cleareneſſe of the mind, the ſimpli<g ref="char:EOLhyphen"/>city of the heart, the quietneſſe of the ſoule, the band of love, and the conſort of charity. <hi>De verb. Dom. cap.</hi> 15. 8. Peace is ſo nearly affianced to Heaven, as that it challengeth her part and property in God, who is <hi>Deus pacis,</hi> the God of Peace, <hi>Heb.</hi> 13. 12.</p>
+            <p>All the children of Peace, are <hi>filij dei,</hi> the children of God, <hi>Mat. 5. 9. Bleſſed are the Peace makers for they ſhall be called the children of God.</hi> None are in God, but ſuch as are in Peace, 1 <hi>John</hi> 4. 8. None ſhall ſee God but ſuch as follow Peace, <hi>Heb.</hi> 12. 14. But <hi>Carendo quam fruendo, &amp;c.</hi> good things are moſt highly prized in the want. The ſicke man is moſt fit to extoll the benefit of health: The blind man (though he cannot judge of colours) is fitteſt to praiſe the bleſſing of ſight. Contraries being placed by contraries, doe appeare in their proper colours. Let us then take a view of the ill of warres, and then wee ſhall ſee more clearly the good of peace; ſee the condition of warre, and as yee like of it, ſo judge of Peace.</p>
+            <p>Warre is the ſcourge of nations, the rod of Gods wrath, and the ſtaffe of his Indignation; a devouring fire, that de<g ref="char:EOLhyphen"/>voureth to deſtruction; warre in the Greeke is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and hath theſe two Etymologies; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> A
+<pb n="7" facs="tcp:111748:5"/>
+bloody iſſue <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a common plague. The Peſtilence is but a private plague in reſpect of warre; that taketh away a part of a Family, or of a Citie; This diſperſeth over a coun<g ref="char:EOLhyphen"/>trey, and deſtroyeth a Kingdome. This warre that is amongſt us, is unhappy above all other, and that in three attributes, being Vncivill, Vnnaturall, Vnreaſonable. Firſt, uncivill, warre is called <hi>Bellum,</hi> which in the proper ſenſe ſignifieth good: But it hath its name <hi>ex antiphraſi</hi> by the contrary, <hi>quia minime bonum,</hi> becauſe it is not good, nay the chiefe of evils; So civill warre hath its name <hi>ex antiphraſi,</hi> becauſe it is of all moſt uncivill. Civill and inteſtine warre, is moſt dangerous. A Kingdome divided cannot ſtand. The Lord make up the breaches of this Kingdome, and joyne the peo<g ref="char:EOLhyphen"/>ple together into one, that they may ſerve the Lord their God, and <hi>David</hi> their King, whom he hath raiſed over them, <hi>Ier.</hi> 3. 9. Secondly, this warre hath beene unnaturall: This hath broken the bands, even the ſtreighteſt coujunctions of nature, Friendſhip, and Religion. Firſt of nature. A Fa<g ref="char:EOLhyphen"/>ther againſt a ſonne, <hi>vitam qui dedit adimit,</hi> unheard of cruelty; the ſonne againſt the father, which might make him juſtly to take up <hi>Davids</hi> complaint, 2 <hi>Sam. 16. 11. Behold my ſonne, which came out of mine owne bowels, ſeeketh my life.</hi> O Generation of vipers, how ſhall yee eſcape the damnation of hell. Brothers like <hi>Cadmus</hi> brood, ſheathing their ſwords in each others ſides. Secondly, the band of friendſhip is broken. Two friends in whom there was according to <hi>Ari<g ref="char:EOLhyphen"/>riſtotles</hi> definition of true friendſhip <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> one ſoule in two bodies, or as it is ſaid of <hi>Ionathan</hi> and <hi>David, 2 Sam. 20. 17. They loved one another as their owne ſoules.</hi> Theſe not only brake the League of love, but fell into bitter feude. The Husband and the Wife, which are but one fleſh, can<g ref="char:EOLhyphen"/>not agree to bee of one mind, but fall into that diſtance of opinion, that one Church cannot hold them both.
+<pb n="8" facs="tcp:111748:6"/>
+Thirdly, the band of Religion is broken. Two, that before did unanimouſly conſent in all points of Religion, by diver<g ref="char:EOLhyphen"/>ſity of opinion about theſe warres, are growne into a divi<g ref="char:EOLhyphen"/>ſion of ſociety, that as <hi>Paul</hi> and <hi>Barnabas</hi> upon their hot contention, they cannot endure to walke together.</p>
+            <p>The third unhappy adjunct is unreaſonable. The chiefe things that made theſe differences (ſo farre as they are pre<g ref="char:EOLhyphen"/>ſented to the publicke view) were, the maintenance of the true Proteſtant Religion, the Priviledge of Parliament, the Liberty of the Subject, the Property of goods: All theſe, as they were earneſtly requeſted of the one party, ſo they were freely proteſted on the other party: And yet for theſe we muſt fight, and waſte our ſelves, and ſo weaken and de<g ref="char:EOLhyphen"/>ſtroy a moſt flouriſhing Nation. You that have had a true ſenſe of all thoſe evils that are come upon us, by reaſon of theſe uncivill, unnaturall, and unreaſonable warres, I hope will be eaſily drawne to ſubſcribe to the truth of this firſt Aſſertion, that Peace is good. The ſecond Aſſertion or Aſ<g ref="char:EOLhyphen"/>ſeveration, is that</p>
+            <p>
+               <q>Truth is good.</q>
+            </p>
+            <p>Mans excellency conſiſts chiefely in two things, <hi>Ratione, &amp; Oratione,</hi> in Reaſon and Speech; one word in the Greeke <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> doth comprehend them both. And one vertue in practiſe (Truth) doth crowne them both. The want of it in both doth make a totall eclipſe of mans glory.</p>
+            <p>For the firſt, take Truth away from the underſtanding, and Reaſon doth wander in darkeneſſe: and ſo a man becoms like a bruit beaſt, that hath no underſtanding. And for the other, take Truth away from Speech, and then it were better for us to be as beaſts, dumbe, and could not ſpeake at all: for ſo we ſhould not ſin ſo oft in word.</p>
+            <p>The want of truth in the one, makes us like the beaſts. The want of truth in the other, maketh us like the Devill.
+<pb n="9" facs="tcp:111748:6"/>
+Truth is <hi>lux mundi,</hi> the Light of the world; and as he af<g ref="char:EOLhyphen"/>firmeth of friendſhip; <hi>ſolem e mundo tollere videntur, qui amicitiam e vita tollunt,</hi> They take the Sunne out of the world, that take friendſhip from the life of man, may more truly be affirmed of truth; They take the Sunne out of the world, that take truth from the ſociety of men. Without it we groape in darkeneſſe, <hi>Eſay</hi> 59. 10. We ſee nothing, we know nothing, we can doe nothing without it, we can doe nothing againſt it, 2 <hi>Cor.</hi> 13. 8. We can doe nothing a<g ref="char:EOLhyphen"/>gainſt the truth, but for the truth. Which words are to be underſtood, according to that Chriſtian axiome; <hi>Quod quiſque debet, id poteſt;</hi> Every man muſt have a reguard, to what may be done, <hi>de jure,</hi> and not what is done <hi>de facto;</hi> Pre<g ref="char:EOLhyphen"/>ſidents of fact, ought to be no leading caſes in matter of right; <hi>vivendum legibus, non exemplis;</hi> We muſt live af<g ref="char:EOLhyphen"/>ter the Lawes of God, not after the examples of men; The Law is ſpirituall, men are carnall, ſold under ſin. If wee would have our waies well ordered, we muſt looke unto what God hath commanded, and not what men have acted. Here what the Lord ſaith, <hi>Zach. 8. 16. Theſe are the things that ye ſhall doe: Speak ye every man the truth unto his neigh<g ref="char:EOLhyphen"/>bour, execute the judgement of truth and peace in your Gates. And let none of you imagine evill againſt his neighbour, and love no falſe oath, for theſe are the things that I hate ſaith the Lord.</hi>
+            </p>
+            <p>A queſtion is commonly moved, whether a man is al<g ref="char:EOLhyphen"/>waies bound to ſpeak the truth, St. <hi>Paul</hi> ordereth the caſe aright, <hi>Eph. 4. 15. Speak ye the truth in Love.</hi> Truth with<g ref="char:EOLhyphen"/>out Charity is malicious, Charity without Truth is blind. O how happy ſhould wee be, if wee had theſe two to goe along with us in all our wayes, to order our converſation a<g ref="char:EOLhyphen"/>right in the feare of God! But alas, both theſe are gone from us, Truth mourneth, for that what ſhe feared is fallen up<g ref="char:EOLhyphen"/>on
+<pb n="10" facs="tcp:111748:7"/>
+her, and that is to be hidden; And Charity is gone up to heaven, there to complaine, that ſhe can find no entertain<g ref="char:EOLhyphen"/>ment here upon earth. And now that Truth and Charity are departed, there are eome into their roome, lying and falſ<g ref="char:EOLhyphen"/>hood, hatred, and malice, and all uncharitableneſſe. We may fitly condole the condition of our times, in the words of <hi>Jeremyes</hi> complaint. <hi>Jer. 9. 1. O that my head were full of water, and mine eyes a fountaine of teares, that I might weep, day and night, for the ſlaine of the daughter of my people.</hi> verſe 3. <hi>They bend their tongues like bowes for lyes, but they are not valiant for the truth upon earth.</hi> verſe 4. <hi>Take yee heed every one of his neighbour, and truſt not in any brother, for every brother will ſupplant, and every neighbour will walke with ſlanders.</hi> verſe 5. <hi>They will deceive every one his neigh<g ref="char:EOLhyphen"/>bour, and will not ſpeake the truth, they have taught their tongues to ſpeake lyes, and bave taken great paines to doe wic<g ref="char:EOLhyphen"/>kedly.</hi> And here we have a paſſage made unto the praiſe of truth, by the conſideration of the odious, and common practiſe of lyes, and untruth. As the world did ſometimes groane under the burthen of Arianiſme; So this Land may now groane under the burthen of lying. This Country is come now almoſt into the condition of Creete <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> all Lyers. <hi>Tit.</hi> 1. 12. In times paſt, we took notice only of three kinds of lyes. They were</p>
+            <list>
+               <item>
+                  <hi>Jocoſa</hi> Jeſts,</item>
+               <item>
+                  <hi>Officioſa</hi> excuſes, or</item>
+               <item>
+                  <hi>Malitioſa</hi> Slanders.</item>
+            </list>
+            <p>But now the ſin hath taken ſuch roote, and the practiſe ſo farre ſpread, that it doth dilate it ſelfe into many branches.</p>
+            <p>Firſt Printed lyes; I have knowne it hath been ſaid, this is true, I ſaw it in Print but now, This is Printed, <hi>ergo</hi> ſuſ<g ref="char:EOLhyphen"/>pected.</p>
+            <p>
+               <pb n="11" facs="tcp:111748:7"/>Secondly, There are Pulpit lyes; when leaving the fa<g ref="char:EOLhyphen"/>thers, and antient expoſitors of Scripture, they ſtuffe their Sermons with relations out of newes bookes, fraught with untruths, from the father of lyes.</p>
+            <p>Thirdly, Propheticke lyes; which are now in great price. Thoſe that were in times paſt, but three halfe penny lyers, and after two penny lyers, are now come to be ſix penny lyers. Surely their lyes are more, or lyes are of more price, then in times of yoare.</p>
+            <p>Fourthly, Paliat or covered lyes; and that is either when truth is thruſt into ſome dark corner by Equivocation, or led aſide by a ſlye diſtinction. Equivocation encites a man to make a lye to himſelfe. A ſubtile diſtinction doth animate him to maintaine a lye to another.</p>
+            <p>For Equivocation. There are ſome that have hid the truth, in the darke corners of the Covenant, when <hi>unuſquiſque a<g ref="char:EOLhyphen"/>bundat ſuo ſenſu.</hi> But this is ſtrange to be obſerved in it. They that firſt made it a Solemne League and Covenant, have ſince declared it to be but an Order tranſient, and like an Almanacke, to laſt for a yeare, and is now out of date. Againe, thoſe that were moſt preſt, to Plunder thoſe that refuſe to take it, were ſuch, as did refuſe to take it them<g ref="char:EOLhyphen"/>ſelves. They bind heavy burthens, and grievous to be borne, but they themſelves will not move them with one of their fingers, <hi>Mat.</hi> 23. 4. Chriſt the truth, calleth ſuch Phari<g ref="char:EOLhyphen"/>ſes, I cannot ſee then but they may be called lyers that call them Saints. Againe, as truth is hid by Equivocation, ſo it is led aſide, by a ſubtile diſtinction. Notwithſtanding ſo bad, but ſome will thinke to make it good: Nothing ſo falſe, but ſome will ſeeke to make it true by diſtinction. The Law ſaith, <hi>Thou ſhalt not kill.</hi> When we lament the ſlaughter of thouſands of our brethren, It is no butcherly ſlaughtering but in their dialect brave execution. Againe,
+<pb n="12" facs="tcp:111748:8"/>
+the Law ſaith, <hi>Thou ſhalt not ſteale.</hi> When we complaine, that our horſes, and goods are taken away by force and vio<g ref="char:EOLhyphen"/>lence; It is anſwered, This is no theft, but Plundering, and both theſe are maintained good, by a diſtinction framed at the Jeſuits forge. They ſay, they may doe theſe evills, <hi>in ordine ad ſpirituale bonum,</hi> In order to the ſpirituall good, ours ſay, they may doe theſe evills, <hi>in ordine ad commune bonum,</hi> In order to the common good. And ſo St. <hi>Pauls</hi> mouth is ſtopt with a diſtinction, where he ſaith, <hi>We muſt not doe evill, that good may come thereof, Rom.</hi> 3. 8. Againe, the Apoſtle ſaith, 1 <hi>Pet. 2. 17. Feare God, and honour the King.</hi> And the wiſe man ſaith, <hi>Eccleſ. 8. 4. Where the word of a King is, there is power.</hi> But ſome ſay where is the King? The King is to be conſidered according to a double capacity,</p>
+            <list>
+               <item>Naturall and</item>
+               <item>Politique.</item>
+            </list>
+            <p>By the one he is in one place, by the other he is in ano<g ref="char:EOLhyphen"/>ther. Juglars ſeeme to have pretty tricks, at the firſt ſight, but when they are diſcovered, they be very bald, and we won<g ref="char:EOLhyphen"/>der that we could not find out they ſlight; So this diſtin<g ref="char:EOLhyphen"/>ction at the firſt tooke many, but being well conſidered, was diſcovered to be very poore and idle. Can a man be a King without a politique capacitie? No more then a King can be a man without a naturall capacitie. I believe where the Sun goeth, he carrieth all his rayes about with him, though he may be eclipſed, or obſcured for a time. So the King hath all his rayes of Majeſty with him, though there be a curtaine drawne between him and us that we cannot now ſee the ſplendor of his glory. The union of theſe two capa<g ref="char:EOLhyphen"/>cities, are as neceſſary <hi>ad eſſe Regis,</hi> to the eſſence of a King, as the union of ſoule and body, <hi>ad eſſe hominis,</hi> to the eſſence of a man. So that upon the ſeparation of either both are loſt. Take away the ſoule from the body, it is no
+<pb n="13" facs="tcp:111748:8"/>
+more a body, but a carcaſſe, take away the body from the ſoule, it is no more a ſoule, but a ſpirit. So, take away the Politique capacity, he is no more a King, as take away the Naturall capacity, he is no more a man. Beſides theſe Pa<g ref="char:EOLhyphen"/>liat, and covered lyes, There are Publike, and open lyes. Some come ſcouting in with a weekely Intelligence. A Lyurnall, great news, lye and all; But the Maſter piece of all, is the new Century of lyes. Had it come to have been made a Chiliad, by adding as was intended the other nine Centuries to it, <hi>Lucian</hi> the great Lyer, with his <hi>verarum narrationum;</hi> and <hi>Jacobus de voragine,</hi> with his <hi>legenda au<g ref="char:EOLhyphen"/>rea,</hi> had been both outvyed, wee had got the whetſtone from them both: Theirs were Monſtrous, and Miraculous Lyes, our Miſchievous and Malicious. <hi>Euſebius</hi> reporteth of <hi>Po<g ref="char:EOLhyphen"/>lycarpus,</hi> the Angell of the Church of <hi>Smirna,</hi> that when he heard any thing, where was much offence, He uſually burſt forth into theſe words; <hi>Deus bone, in quae temporare<g ref="char:EOLhyphen"/>ſervaſti me, ut haec audiam,</hi> Good God, unto what times haſt thou reſerved me, that I ſhould heare ſuch things. We have juſt occaſion to uſe the words of this complaint, Good God, unto what times haſt thou reſerved us, that wee muſt heare ſo many lyes, and can heare ſo little truth. I hope the conſideration of our miſerable condition, by reaſon of lying, will perſwade with us to ſubſcribe to this ſecond aſſertion, that <hi>truth is good.</hi> I come to the third aſſertion. <hi>It is good that Peace and truth be joyned together.</hi> That axi<g ref="char:EOLhyphen"/>ome in Philoſophy, <hi>virtutes inter ſe concatenantur,</hi> vertues are chained together, Is alſo true in divinity, There is a con<g ref="char:EOLhyphen"/>catenation of vertues, and graces in Religion. As the Diſ<g ref="char:EOLhyphen"/>ciples came to Chriſt by couples, <hi>Andrew</hi> and <hi>Peter, James</hi> and <hi>John, Philip</hi> and <hi>Nathaniel:</hi> So the graces of his ſpi<g ref="char:EOLhyphen"/>rit, are commended unto us coupled together. <hi>Juncta ju<g ref="char:EOLhyphen"/>vant,</hi> as Firſt <hi>Wiſdome and Innocency, Math.</hi> 10. 16. Se<g ref="char:EOLhyphen"/>condly,
+<pb n="14" facs="tcp:111748:9"/>
+               <hi>Faith</hi> and <hi>Love, 2 Tim.</hi> 1. 13. Thirdly, <hi>Patience</hi> and <hi>Hope, Rom. 12. 12. 4. Repentance</hi> and <hi>Obedience, Revelati<g ref="char:EOLhyphen"/>ons.</hi> 3. 19.</p>
+            <p>So we have here Peace and Truth, Peace without Truth, is a faire building without a ſure foundation. Truth with<g ref="char:EOLhyphen"/>out Peace, is a good foundation, but cannot be raiſed to any Glory, and comfortable perfection. All agree, that it is good to have both, but they differ about the order of acqui<g ref="char:EOLhyphen"/>ring, whether linke they ſhould firſt lay hold on, that the other may follow. Some ſay let us have Truth, and Peace will follow. I anſwer, Peace may be the way to Truth, as well as Truth the way to Peace. In a ſetled ſtate, we firſt look upon truth, then peace: But in a diſtracted State, we muſt firſt have Peace, or elſe we ſhall never heare of truth: <hi>Inter arma ſilent leges,</hi> what truth can we heare, ſo long as the bea<g ref="char:EOLhyphen"/>ting of drums, the cluttering of Armes, and the roaring of Guns doe fill our ears. The wiſdome of the Town-clerke, <hi>Act.</hi> 19. 35. is worthy of our obſervation, and imitation, when the Citie of <hi>Epheſus</hi> was in an uproar, he firſt appea<g ref="char:EOLhyphen"/>ſed the people. then he perſwaded them, if any were wron<g ref="char:EOLhyphen"/>ged how to have redreſſe. We have commonly the Cryer of the Court to cry Peace, before we can heare truth fully argued, caſes rightly ſtated, and right truly determined. So in this caſe firſt Peace, then Truth. They that hate Peace cry out for Truth. And yet I thinke <hi>Pilates</hi> queſtion to Chriſt, and what is Truth, would have neither a ſuddaine, nor ſound reſolution of them.</p>
+            <p>
+               <hi>Veritas altercando amittitur,</hi> Truth is loſt by jarring; it is a lamentable ſtate, when Truth muſt be commanded, not argued, and right meaſured, not by ſtatute, but by the ſword. <hi>Lyſander</hi> being choſen arbiter betwixt two neighbouring Nations, who fell into diſſention about the territories of their Dominions, drew his ſword, and flouriſhing it about his
+<pb n="15" facs="tcp:111748:9"/>
+head, uſed theſe words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Hee that can uſe this beſt is fitteſt to determine of right. God keepe us from <hi>Lyſanders</hi> Law, that is <hi>Lesbia regula,</hi> a crooked rule, that will never ſquare with Peace and Truth. They are deceived, that thinke that warres will produce Truth; we ſee the contrary. <hi>Ireneus</hi> who lived about the yeare 175. wrote againſt thirty hereſies, and <hi>Epiphanius</hi> who lived a<g ref="char:EOLhyphen"/>bout the yeare 383. wrote againſt 80. hereſies; But in the time of theſe warres, the Author of the <hi>Grangren</hi> obſer<g ref="char:EOLhyphen"/>veth 200. hereſies, or there abouts, to have appeared in the ſpace of little more then foure yeares. As the over-flow<g ref="char:EOLhyphen"/>ing of <hi>Nilus,</hi> by ſtirring up of the mud, doth cauſe many ſtrange Serpents to be bred out of the ſlime: So the over<g ref="char:EOLhyphen"/>flowing of theſe warres, have bred, and foſtered, almoſt in<g ref="char:EOLhyphen"/>numerable and unheard-of hereſies, and ſtrange opinions a<g ref="char:EOLhyphen"/>mongſt us. <hi>Hezechiah</hi> putteth Peace before Truth: ſo muſt it be with us, or elſe I doubt it will never come at us. <hi>Pſal.</hi> 85. 10. The Pſalmiſt addeth two linkes more to this chain, <hi>viz.</hi> Righteouſneſſe and Mercy. Peace cannot ſtand with<g ref="char:EOLhyphen"/>out Righteouſneſſe, as ye have heard, and Truth would not be willingly without Mercy, Truth is bitter without Mercy, Mercy blind without Truth. <hi>Luke</hi> 10. 34. Truth and Mer<g ref="char:EOLhyphen"/>cy are like the <hi>Samaritans</hi> wine, and oyle; all wine is too much fretting and ſmarting; all oyle too ſuddainly, and ſlightly healing. All Truth will require <hi>ſummum jus,</hi> right with rigour; all Mercy will regard <hi>nullum jus,</hi> no right at all. If we could pull this whole chaine to us, it would be of more value then a chaine of Diamonds. If we could lay hold on Righteouſneſſe, that would draw Peace after it, Peace would draw Truth unto it, and Truth would draw downe the Mercy of God upon us, and open the bowels of Mercy one to another. And this for the third Aſſertion, <hi>viz.</hi> It is good that Peace and Truth be coupled together.
+<pb n="16" facs="tcp:111748:10"/>
+So I come to the fourth Aſſertion, the continuance of the bleſſing. <hi>In my dayes.</hi>
+            </p>
+            <p>The Ancients reckoned the time of their lives, by dayes, to ſhew the ſhortneſſe of the time, and frailty of life, <hi>Iob 42. 1. Job</hi> died an old man, full of dayes, <hi>Gen. 47. 9. Iacobs</hi> life a pilgrimage of a few evill dayes, <hi>Pſal. 90. 12. Moſes</hi> prayer, <hi>Teach us to number our dayes.</hi> A day is a perfect mo<g ref="char:EOLhyphen"/>dell of mans life: A day hath a morne, a noone, and an eve<g ref="char:EOLhyphen"/>ning; ſo hath life, if it be drawne out to the furtheſt period. <hi>My dayes,</hi> that is the time preſent, of my now being; the dayes paſt are not my dayes, they are gone, they are not; the dayes to come are not my dayes, they are not yet. There tis but a ſmall <hi>interim</hi> betwixt thoſe two dayes, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Rom.</hi> 8. 18. The Paſſions or Paſſages of a point of time. This time of <hi>My dayes</hi> is of ſo ſmall extenſion. It is an axiome of Devotion, ſpirituall graces are to be asked without exception, becauſe God hath made an abſolute promiſe to give them: but temporall bleſſings with a con<g ref="char:EOLhyphen"/>dition, and limitation, if it be his will, and for our times. So we aske bread for the day, and Peace for our dayes. Wee need bread every day, and Peace in our dayes. And who knoweth, but theſe warres, and troubles of theſe times, are come upon us, for ſpurning at that holy ſuffrage of our Church? <hi>Give Peace in our time O Lord.</hi> To conclude the point, let all thoſe that are peaceable in the Land, and have a true ſenſe of the miſeries of theſe dayes, and deſire that better dayes may come unto us; ſubſcribe to the truth of this Aſſertion, and take it into their prayers, in their beſt devotion, <hi>That Peace and Truth may be in our dayes.</hi> And ſo I come to Application, which is the life of Preaching, and chiefeſt thing that I propounded to my ſelfe, when I firſt purpoſed to treat upon this text of Scripture. This text may be fitly compared to <hi>Eliahs</hi> cloud, which was at the
+<pb n="17" facs="tcp:111748:10"/>
+firſt ſight, but as the breadth of a mans hand, but looking a while upon it, it grew to that greatneſſe, and extenſion, as that it covered the whole Heavens.</p>
+            <p>So this text is a ſmall ſentence, if you looke into the num<g ref="char:EOLhyphen"/>ber of the words: But if you ſhall take it into a ſerious con<g ref="char:EOLhyphen"/>ſideration, you ſhall ſee it grow into ſuch a cloud of mat<g ref="char:EOLhyphen"/>ter, as that it ſhall over ſhadow the whole hemiſphere of our converſation, and ſhowre a bleſſing upon you, to comfort you in theſe evill times ſad condition. We looke upon it, as appliable to all circumſtances, Time, Place, Perſons, Matter and Manner. None of all theſe can have his due praiſe, or true comfort without it.</p>
+            <p>For the three firſt circumſtances, Time, Place, and Per<g ref="char:EOLhyphen"/>ſons. In all places there is a complaint of theſe times by all perſons, excepting thoſe that deſire to fiſh in troubled wa<g ref="char:EOLhyphen"/>ters, and that make a gaine of others ſufferings. Theſe ſacri<g ref="char:EOLhyphen"/>fice to their nets, and burne incenſe to their drags, becauſe by them their portion is fat, and their meat plenteous, <hi>Hab.</hi> 1. 16. Theſe like the Idolatrous ſilver-Smiths, <hi>Act.</hi> 19. 24. Cry up <hi>Diana's</hi> magnificence, becauſe it brought great advantage to their craft, and imployment. But how many cry againſt them? 1. The cry of an impoveriſhed Citie, where tra<g ref="char:EOLhyphen"/>ding fayling, Poverty commeth like an armed man upon them. 2. The cry of the Countrey, which is eaten up. With what a dejected countenance, and repining indignation ſhall the Husbandman looke upon his crop, when he ſhall thinke thus with himſelfe, <hi>Barbanus has ſegites?</hi> ſhall the ſtranger conſume all my labours? After taxes, and exciſes, and ſuch like payments, then cometh quartering like the Locuſts after the haile, and eateth up all the reſidue of my increaſe. Have I not ploughed all day, and brake the clods of the ground, and made it even, that I might caſt in my principall wheate, and Rye, and Barlie? <hi>Longi perit labor irritus anni.</hi> Behold
+<pb n="18" facs="tcp:111748:11"/>
+I have laboured in vaine, and ſpent my ſtrength in vaine, and for nothing. Let us come to our Churches, we looked that a Reformation would have ſwept all cleane, but we ſee it farre fouler then before. They ſought to ſweep away Cere<g ref="char:EOLhyphen"/>monies, and ſuperſtition, and have fouled it with ſacrilege, and confuſion. They pretend to pull down Popery, and have ſet up hereſie, and ſo while they thought to put the Pope out at the Fore-door, they have let in the Devill at the Back-door. We thought that text of Scripture would have freed our Churches from annoyance, <hi>Luke 19. 24. Yee ſhall keepe my Sabbaths, and reverence my Sanctuary.</hi> But ſee how farre they are prophaned: In our entrance into it we may ſee the Font, <hi>ſons regenerationis,</hi> where the ſpirit of God mo<g ref="char:EOLhyphen"/>veth upon the water for our ſanctification, hath beene made a trough to water horſes, and broken downe in many pla<g ref="char:EOLhyphen"/>ces, as if they deſired to renounce their Baptiſm. And to goe a little further, and ſee for the other Sacrament; we ſee no Shew-bread upon the Holy Table. The Communion which was in the Primitive Church adminiſtred common<g ref="char:EOLhyphen"/>ly every Lords day, In many reformed Churches received once every moneth, and upon Injunction of the higheſt powers, to be adminiſtred thrice in the yeere at the leaſt is now in ſome places ſcarce named once in ſeven years. In ſome places they have it, it may be once or twiſe in two or three yeare, and that in the countrie about Harveſt, and that too upon the grumbling threats of the Pariſhioners; why ſhould he have his due, and we cannot have ours: And ſo they juſtly cauſe the people to renue the Prophets la<g ref="char:EOLhyphen"/>mentable complaint, <hi>Lament. 4. 4. Pueri quaerunt panem, &amp; non eſt qui frangat eis;</hi> the children cry for bread, and there is none to breake it to them.</p>
+            <p>To goe a little further, and ſee how the Sanctuary is rob<g ref="char:EOLhyphen"/>bed of all her ornaments, the two golden Candleſticks, the
+<pb n="19" facs="tcp:111748:11"/>
+two Teſtaments are indeed there, but the Candles are ſel<g ref="char:EOLhyphen"/>dome lighted: We have had two Chapters read out of both Teſtaments, but now it is well if there be one. But commonly (eſpecially in great Aſſemblies) a Pſalme is ſung of the new tranſlation, and then the new light is ſet up, whereby (as ſome have profeſſed to their hearers) they can tel them as much of the mind of God Almighty as the Pro<g ref="char:EOLhyphen"/>phets, or the Apoſtles, or Chriſt himſelfe could. And for the Arke of the Covenant, with the memorable Monuments, the Tables, <hi>Aarons</hi> Rod, and the Pot of Manna, their Para<g ref="char:EOLhyphen"/>lels, the Commandements, the Creed, and the Lords Praier, they are loſt. So that our Church, now travelling of this new birth of her now Reformation, may with <hi>Phineas</hi> his wife cry out in her paines, and call her iſſue <hi>Johabod,</hi> that is, where is the glory, for the glory is departed. Let us goe from the defaced Church, and looke into the diſtreſſed world, and ſee how the cry goeth there. In every trade and calling there is a continuall crying. Is it not now with us, as <hi>Job</hi> obſerveth in a great ſnow, <hi>ſignaſti manus,</hi> thou haſt ſealed up the hand of every man? <hi>Iob</hi> 37. 7. As the hand is to the body, ſo is money to everie trade and calling, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the inſtrument of inſtruments; what uſe or exerciſe can wee make of our trades, when the warres command a great part of our monies, and the Dearth a conſtant Wai<g ref="char:EOLhyphen"/>ter upon warre, doth claime a ſecond part? I doubt the third part will be little to trade withall. Laſtly, for the two laſt circumſtances, Matter and Manner, All men are to deſire Peace and Truth by all meanes, and in all matters, how ſo<g ref="char:EOLhyphen"/>ever they be handled, whether they be matters of Difference, or of Reference, or of Conference. Firſt of Difference, and reference. When a Difference is ended by reference, or Judge<g ref="char:EOLhyphen"/>ment without Peace and Truth, there may <hi>finis cauſae, non querela,</hi> an end of the cauſe, but not of the quarrell: So
+<pb n="20" facs="tcp:111748:12"/>
+for Conference, if that be without Peace and Truth, we are in ſome reſpect, in worſe condition then the Devils, they though they lie to us, yet they lye not one to another: though they divide us by warres, ſects and ſchiſmes, yet Satan is not divided againſt Satan. Should we not abhorre to have our converſation worſe then an hell upon earth? the beſt meanes to repreſſe theſe evils, and to procure Peace and Truth in our dayes, after true humiliation for ſinne, and earneſt prayer unto God for mercy, to avert his judge<g ref="char:EOLhyphen"/>ments from us, is to call the King home to his wonted houſes of abode, that he may ſit on his Throne of Majeſty, and rule his people under Chriſt, with the Scepter of Righte<g ref="char:EOLhyphen"/>ouſneſſe, and move in his proper ſphere of Princely power. The King is <hi>Pater patriae,</hi> the Father of the countrey. When the Maſter of the Family is long abſent, and that his ſtay exceedeth the expected time of his returne, it cauſeth a dampe in his good ſervants, a diſorder in the bad; what fallings out will there be in the Family, what wiſhings a<g ref="char:EOLhyphen"/>mongſt the ſervants? O that our Maſter were once come home. Indeed the Maſters abſence is a great cauſe of diffe<g ref="char:EOLhyphen"/>rence amongſt the ſervants. Wee are loath to beare hard commands from our fellow ſervants, but when the Maſter commeth, he commands all, and all are quiet.</p>
+            <p>Indeed were the Maſter a Tyrant, unjuſt, unquiet, harſh, and cruell, then the ſervants might wiſh his abſence. But for this our Maſter, he is wiſe, juſt, meeke, ſober, honeſt; And I thinke I may ſafely ſay of him, as it is ſaid of <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the third; He was ſuch a King, as that none of the Kings before him had more vertues, and fewer vices. This Kingdome for want of this King amongſt us, is fallen into many dangerous diſorders, and diſtempers, as there was ſome<g ref="char:EOLhyphen"/>times when there was no King in <hi>Iſrael, Iudg.</hi> 6. 6. This Kingdome is ſicke, and hath the ſymptomes of many diſea<g ref="char:EOLhyphen"/>ſes upon it, as</p>
+            <p n="1">
+               <pb n="21" facs="tcp:111748:12"/>1. A bloody iſſue in warre.</p>
+            <p n="2">2. The falling ſickneſſe in the fits of the monethly taxes.</p>
+            <p n="3">3. The Palſie in the Exciſe, which commeth of the weak<g ref="char:EOLhyphen"/>neſſe of the ſinews. All the Land ſhaketh.</p>
+            <p n="4">4. The Ague, which either turneth to a burning Fever, which cauſeth a Phrenſie, or madneſſe; or into an Hectick Fever, which conſumeth to deſtruction. There is a greater evill in this Land then all theſe, and that is the Kings evill. Let that be cured, and we ſhall eaſily find Phyſitians for all the reſt. All the reſt are rooted, and grounded in this evill. Now none can cure this, but the King onely. Onely his prayers, his preſence, his ſtroakings, nothing elſe can doe it.</p>
+            <p>Why ſhould we languiſh, when we may have health? let us deſire his comming to us, let us long for it, let us pray for it, let us endeavour it; which being effected, the Son of Righte<g ref="char:EOLhyphen"/>ouſneſſe will come along with him, with healing in his wings, to cure the diſtempers of this diſtreſſed Nation. This he grant, who is our health, and our ſalvation, for his ſonnes ſake, who hath borne our infirmities, and cured our ſickneſſes, even by the pretious Oyntment of his Holy Spi<g ref="char:EOLhyphen"/>rit; to whom, even God the Father, the Son, and the Holy Ghoſt, be all Power, Praiſe, Might, Do<g ref="char:EOLhyphen"/>minion, and thankſgiving, both now and for ever,</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
